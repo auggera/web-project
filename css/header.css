@@ -1,0 +1,10 @@
+.header__background {
+    background: url(../img/main-img.png);
+}
+
+.header__caption {
+    margin: auto;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: white;
+    text-align: justify;
+}
