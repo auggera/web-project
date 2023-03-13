@@ -1,0 +1,55 @@
+.features-discription {
+    margin: 91px 40px 91px 40px;
+}
+
+.main__caption {
+    font-family: graphik-regular;
+    text-align: center;
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.main__text {
+    font-family: graphik-regular;
+    text-align: center;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    padding: 10px 10px 10px 10px;
+}
+
+.text-look__simple {
+    font-family: graphik-regular;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 10px 10px 10px 10px;
+}
+.features_block_caption {
+    font-family: graphik-bold;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 10px 10px 10px 10px;
+}
+
+.features-computer-img {
+    max-width: 1000;
+}
+
+.main__features-blocks {
+    margin: 56px 81px 80px 81px;
+}
+
+.figure-logo {
+    width: 45.75px;
+    height: 45.75px;
+    margin: auto;
+}
+
+.main__block {
+    margin-top: 80px;
+    width: 230ipx;
+}
