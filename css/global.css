@@ -5,7 +5,8 @@
 }
 
 :root {
-
+    --text-header-color: #ffffff; 
+    --button-color: #2091F9;
 }
 
 img {
